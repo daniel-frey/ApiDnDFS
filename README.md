@@ -1,4 +1,4 @@
-![DND](assets/dnd.png) ApiDnD Full Stack - This is an in-progress continuation of APIDnD
+![DND](assets/dnd.png) ApiDnD Full Stack - This is an in-progress continuation of ApiDnD
 ===
 
 
