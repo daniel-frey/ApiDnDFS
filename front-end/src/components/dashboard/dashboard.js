@@ -3,7 +3,7 @@ import React from 'react';
 class Dashboard extends React.Component {
   render() {
     return (
-        <p>You are logged in, sucka!</p>
+        <p>You are logged in. Welcome</p>
     );
   }
 }
