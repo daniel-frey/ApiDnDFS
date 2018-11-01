@@ -1,8 +1,9 @@
 @import "variables";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
   background-color: $color-accent;
-  font-family: sans-serif;
+  font-family: $roboto;
   color: $color-secondary;
 }
 
@@ -11,7 +12,9 @@ button:hover {
 }
 
 h1 {
+  font-family: $roboto;
   font-size: 2em;
+  font-weight: bold;
   margin-bottom: 3%;
 }
 
