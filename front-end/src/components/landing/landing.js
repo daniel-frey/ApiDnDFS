@@ -71,6 +71,6 @@ Landing.propTypes = {
   location: PropTypes.object,
   pDoSignUp: PropTypes.func,
   pDoLogin: PropTypes.func,
-}
+};
 
 export default connect(mapStateToProps, mapDispatchToProps)(Landing);
