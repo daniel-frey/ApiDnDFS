@@ -5,7 +5,7 @@ const emptyState = {
   username: '',
   email: '',
   password: '',
-}
+};
 
 class AuthForm extends React.Component {
   constructor(props) {

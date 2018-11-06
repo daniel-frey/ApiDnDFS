@@ -7,6 +7,6 @@ import reduxReporter from './middleware/redux-reporter';
 
 export default () => {
   const store = createStore(mainReducer,
-      composeWithDevTools(applyMiddleware(reduxReporter, thunk)));
+    composeWithDevTools(applyMiddleware(reduxReporter, thunk)));
   return store;
 };
